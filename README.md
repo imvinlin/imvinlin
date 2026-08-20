@@ -7,11 +7,11 @@
 Hi im vincent lin :)
 
 Current Interests:
-- RSSM and World Models
+- Parallel Computing (CUDA, Triton)
 - vLLM/Inference Optimization
 - Model Training
-- LLVM/Compilers
-
+- Enjoying Life
+  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vincent-lin-uf/)
 
   
