@@ -7,10 +7,10 @@
 Hi im vincent lin :)
 
 Current Interests:
-- Parallel Computing (CUDA, Triton)
-- vLLM/Inference Optimization
-- Model Training
-- Enjoying Life
+- Evals, Evals, Evals
+- Post-Training & RL Envs
+- FPGA
+- Anything from first principles
   
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vincent-lin-uf/)
 
